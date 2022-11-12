@@ -1,0 +1,11 @@
+example@gmail.com
+thisisNot.email.address
+john_12@mail.com
+@thisis.not.email.address
+conrad_mcGregor5@yahoo.com
+thisisNotEmailAddress@
+vasyl_b@i.ua
+thisis@not email address
+president@office.gov.ua
+this_is@multi_domain.email.really.long.address
+email-man@dot.io
